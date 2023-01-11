@@ -25,4 +25,4 @@ characters.textContent = text.value.length;
 
 
 
-![linkedin](https://www.linkedin.com/in/okkes-akkurt/)
+[Linkedin](https://www.linkedin.com/in/okkes-akkurt/)
